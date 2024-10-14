@@ -18,7 +18,7 @@ A classe `Vector` permite criar e manipular vetores em duas dimensões. Ela supo
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/vector-class.git
+   git clone https://github.com/botlorien/two-dimensional-vector-addition-example.git
    ```
 
 2. Navegue até o diretório do projeto:
