@@ -23,7 +23,7 @@ A classe `Vector` permite criar e manipular vetores em duas dimensões. Ela supo
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd vector.py
+   cd two-dimensional-vector-addition-example
    ```
 3. Execução:
    ```bash
